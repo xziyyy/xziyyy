@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Update dan upgrade paket
-pkg update && pkg upgrade -y
-
 # Install dependensi yang dibutuhkan
 pkg install git -y
 pkg install nodejs-lts -y
