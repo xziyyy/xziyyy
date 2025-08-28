@@ -1,6 +1,6 @@
 ## Hello world👋
 
-![Profile Dilihat](https://komarev.com/ghpvc/?username=xziyyy&color=blue&style=flat-square&label=Profile+Dilihat)
+![Profile Dilihat](https://komarev.com/ghpvc/?username=myzuyx&color=blue&style=flat-square&label=Profile+Dilihat)
 
 ### Stats:
 
